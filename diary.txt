@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
 I Love my boss
+=======
+I hate my boss
+I hate my boss
+I hate my boss
+I hate my boss
+I hate my boss
+>>>>>>> Stashed changes
