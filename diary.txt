@@ -1,13 +1,2 @@
-<<<<<<< Updated upstream
-I Love my boss
-=======
-I hate my boss
-I hate my boss
-I hate my boss
-I hate my boss
-I hate my boss
->>>>>>> Stashed changes
+I love my boss
 
-This is a test for the pull Process
-
-This is the second test for the pull process
