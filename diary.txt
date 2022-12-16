@@ -1,18 +1,1 @@
-I love my boss
-
-<<<<<<< HEAD
-=======
-This is a test for the pull Process
-
-This is the second test for the pull process
-
-Third test
-
-fourht test
->>>>>>> 34381ef2673ef2a387df12b65494274471d4cb55
-
-
-Review My code
-2nd review my code
-
-3rd reviwq
+This is the test for the pull  requeste review
