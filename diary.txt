@@ -12,3 +12,5 @@ this is a test for a pull request from test branch
 test for git fetch
 test for code add
 new fetch pull
+test for commit
+test for ammend
